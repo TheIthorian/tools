@@ -28,3 +28,7 @@ Tools recommended by https://www.youtube.com/watch?v=dFkGNe4oaKk
     -   https://github.com/hrkfdn/ncspot/blob/main/doc/users.md#key-bindings
 -   `speedtest-rs` - internet speed tester
     -   `speedtest-rs`
+-   `ffmpeg` - cli video editor
+    -   `ffmpeg`
+    -   https://ffmpeg.org/ffmpeg.html
+    -   https://www.youtube.com/watch?v=26Mayv5JPz0
