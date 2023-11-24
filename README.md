@@ -73,13 +73,17 @@ Tools I use. Some are recommended by [No Boilerplate](https://www.youtube.com/wa
 
 ## Development
 
-- docker
+- `docker`
 
   - https://docs.docker.com/desktop/install/mac-install/
 
-- postman
+- `postman`
 
   - https://www.postman.com/
+
+- `devtoys` - Swiss Army knife for developers
+
+  - https://devtoys.app/
 
 ### Other
 
