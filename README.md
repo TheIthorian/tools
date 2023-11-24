@@ -7,7 +7,11 @@ Tools I use. Some are recommended by [No Boilerplate](https://www.youtube.com/wa
 ### Mac
 
 - `rectangle` - window resizer for mac
+
   - https://rectangleapp.com/
+
+- `iterm` - a replacement for the standard terminal on mac
+  - https://iterm2.com/index.html
 
 ### Terminal & Editors
 
