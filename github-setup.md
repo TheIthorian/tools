@@ -63,3 +63,11 @@ If it says something like the following, it worked:
 Hi username! You've successfully authenticated, but Github does
 not provide shell access.
 ```
+
+### use private key
+
+On mac, if you have used a passphrase for the ssh key, you can save your private key with
+
+```sh
+ssh-add
+```
