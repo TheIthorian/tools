@@ -26,6 +26,10 @@ Tools I use. Some are recommended by [No Boilerplate](https://www.youtube.com/wa
   - `nvm`
   - https://neovim.io/doc/user/
 
+- `obsidian` - offline local alternative to notion
+
+  - https://obsidian.md/
+
 ### cli tools
 
 - `zellij` - window manager
@@ -66,6 +70,16 @@ Tools I use. Some are recommended by [No Boilerplate](https://www.youtube.com/wa
   - `ffmpeg`
   - https://ffmpeg.org/ffmpeg.html
   - https://www.youtube.com/watch?v=26Mayv5JPz0
+
+## Development
+
+- docker
+
+  - https://docs.docker.com/desktop/install/mac-install/
+
+- postman
+
+  - https://www.postman.com/
 
 ### Other
 
