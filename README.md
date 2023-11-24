@@ -6,12 +6,18 @@ Tools I use. Some are recommended by [No Boilerplate](https://www.youtube.com/wa
 
 ### Mac
 
+- `homebrew` - package maneger for mac
+
+  - `brew`
+  - https://brew.sh/
+
 - `rectangle` - window resizer for mac
 
   - https://rectangleapp.com/
 
 - `iterm` - a replacement for the standard terminal on mac
   - https://iterm2.com/index.html
+  - Themes: https://iterm2colorschemes.com/
 
 ### Terminal & Editors
 
@@ -45,6 +51,11 @@ Tools I use. Some are recommended by [No Boilerplate](https://www.youtube.com/wa
 
   - `rg`
   - https://github.com/BurntSushi/ripgrep/blob/master/GUIDE.md
+
+- `exa` - an `ls` alternative
+
+  - `exa`
+  - https://the.exa.website/
 
 - `speedtest-rs` - internet speed tester
 
