@@ -16,8 +16,12 @@ Tools I use. Some are recommended by [No Boilerplate](https://www.youtube.com/wa
   - https://rectangleapp.com/
 
 - `iterm` - a replacement for the standard terminal on mac
+
   - https://iterm2.com/index.html
   - Themes: https://iterm2colorschemes.com/
+
+- `stats` - live computer stats
+  - https://github.com/exelban/stats
 
 ### Terminal & Editors
 
