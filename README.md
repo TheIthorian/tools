@@ -74,6 +74,11 @@ Tools I use. Some are recommended by [No Boilerplate](https://www.youtube.com/wa
   - `ffmpeg`
   - https://ffmpeg.org/ffmpeg.html
   - https://www.youtube.com/watch?v=26Mayv5JPz0
+  
+- `cloc` - count lines of code
+
+  - `npx cloc`
+  - https://github.com/AlDanial/cloc
 
 ## Development
 
